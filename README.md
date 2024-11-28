@@ -39,7 +39,7 @@ options:
 
 ## Example
 
-This is an altered image of Belgrade (the original is in `slike_za_testiranje`; try comparing them!):
+This is an altered image of Belgrade (the original is in `test_imgs`; try comparing them!):
 
 ![Belgrade](OUTPUT8B8A.png "Belgrade")
 
